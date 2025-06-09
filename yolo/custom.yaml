@@ -1,0 +1,5 @@
+train: dataset/images  # or full path like /home/user/dataset/images
+val: dataset/images    # use the same for both if not splitting
+
+nc: 9
+names: ['scrub', 'bowl', 'gripper', 'crinkle', 'catapult', 'tray', 'bucket', 'canvas', 'palm']

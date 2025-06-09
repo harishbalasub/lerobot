@@ -1,0 +1,9 @@
+scrub
+bowl
+gripper	
+crinkle
+catapult
+tray
+bucket
+canvas
+palm
